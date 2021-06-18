@@ -1,0 +1,27 @@
+body{
+    background-image: url(03.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+}
+.countdown{
+    text-align:right;
+    margin-right: 14%;
+    margin-top: 10% ;
+    
+}
+ 
+#timeLeft{
+
+    color:white;
+    font-size: 40px;
+    word-spacing: 8px;
+
+}
+#days{
+    
+    color:white;
+    font-size: 16px;
+ word-spacing: 12px;
+ white-space: pre;
+}
